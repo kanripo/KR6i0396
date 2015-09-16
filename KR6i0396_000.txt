@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說樓閣正法甘露鼓經
+#+DATE: 2015-08-30 20:18:00.956896
+#+PROPERTY: JUAN 0
