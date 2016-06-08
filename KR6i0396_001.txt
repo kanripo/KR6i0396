@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:00.759943
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:27
 #+TITLE: 佛說樓閣正法甘露鼓經
 #+PROPERTY: CBETA_ID T16n0704
 #+PROPERTY: ID KR6i0396
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 704
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0396_T_000-0811b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0396_T_001-0811b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.704¶
-
- 《佛說樓閣正法甘露鼓經》¶
+No. 704¶
+《佛說樓閣正法甘露鼓經》¶
 ¶
 西天中印度惹爛馱囉國密林寺¶
 三藏明教大師賜紫沙門臣天息災¶
